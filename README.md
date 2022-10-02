@@ -1,1 +1,1 @@
-# astro_mechanics_sim
+# Simulation of Newtonian masses in a 3D space
